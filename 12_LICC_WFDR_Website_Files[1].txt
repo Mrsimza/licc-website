@@ -1,0 +1,76 @@
+licc-website/
+│
+├── index.html                     (landing page)
+│
+├── p1.html                        (Programme 1: Elderly Feeding & Wellness)
+├── p2.html                        (Programme 2: Arts & Culture)
+├── p3.html                        (Programme 3: Sports & Youth)
+├── p4.html                        (Programme 4: Skills Development)
+├── p5.html                        (Programme 5: Pupil's Afterschool)
+│
+├── business_profile.html          (HTML version of your Business Profile – to be created)
+├── mural_sponsorship.html         (HTML version of Mural Sponsorship Proposal – to be created)
+├── partnership.html               (HTML version of Partner with Us – to be created)
+├── annual_report.html             (HTML version of Annual Report – to be created)
+│
+├── international/
+│   ├── index.html                 (International Partnerships overview)
+│   ├── china.html                 (China – Advanced Manufacturing)
+│   ├── japan.html                 (Japan – Creative Industries)
+│   ├── sports.html                (Sports Exchange)
+│   └── arts.html                  (Arts & Culture Exchange)
+│
+├── docs/
+│   ├── business_profile.pdf
+│   ├── mural_sponsorship_proposal.pdf
+│   ├── partnership_brochure.pdf
+│   ├── annual_report_2024_2025.pdf
+│   │
+│   ├── p1/                        (all P1 documents – PDFs, Excel, etc.)
+│   │   ├── Staff_Roles.pdf
+│   │   ├── Organogram.pdf
+│   │   ├── Registration_Form.pdf
+│   │   └── ...
+│   │
+│   ├── p2/                        (all P2 documents)
+│   │   └── ...
+│   │
+│   ├── p3/                        (all P3 documents)
+│   │   └── ...
+│   │
+│   ├── p4/                        (all P4 documents)
+│   │   ├── china/                 (China‑specific documents)
+│   │   │   ├── Research_Log.pdf
+│   │   │   ├── Company_Profiles.pdf
+│   │   │   ├── Outreach_Template.pdf
+│   │   │   └── Exchange_Concept_Note.pdf
+│   │   ├── japan/                 (Japan‑specific documents)
+│   │   │   ├── Research_Log.pdf
+│   │   │   ├── Studio_Profiles.pdf
+│   │   │   ├── Outreach_Template.pdf
+│   │   │   └── Exchange_Concept_Note.pdf
+│   │   └── ...                    (foundation documents)
+│   │
+│   ├── p5/                        (all P5 documents)
+│   │   └── ...
+│   │
+│   └── international/
+│       ├── Exchange_Report_Template.pdf
+│       ├── MOU_Template.pdf
+│       ├── Exchange_Participant_Selection_Criteria.pdf
+│       ├── sports/
+│       │   ├── Research_Log.pdf
+│       │   ├── Concept_Note.pdf
+│       │   ├── Outreach_Template.pdf
+│       │   └── Selection_Criteria.pdf
+│       └── arts/
+│           ├── Research_Log.pdf
+│           ├── Concept_Note.pdf
+│           ├── Outreach_Template.pdf
+│           └── Selection_Criteria.pdf
+│
+└── assets/
+    ├── images/                    (any photos, logos, etc.)
+    │   └── logo.png
+    └── css/                       (optional, if you separate CSS)
+        └── style.css
