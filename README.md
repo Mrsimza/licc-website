@@ -1,18 +1,54 @@
-# licc-website
-Official website repository for Liwelile Impumelelo Community Centre (NPO 167-542, PBO 930052254). Static HTML site showcasing our five community programmes, international partnerships, key documents, and sponsorship opportunities.
-# Liwelile Impumelelo Community Centre – Official Website
-This repository contains the static HTML website for **Liwelile Impumelelo Community Centre** (NPO 167-542, PBO 930052254), a South African non-profit organisation serving vulnerable communities in Germiston’s informal settlements.
-## Live site
-[https://yourusername.github.io/licc-website](https://yourusername.github.io/licc-website)
-## Folder structure
-- **`assets/`** – images and CSS
-- **`docs/`** – all PDF documents (programme docs, proposals, etc.)
-- **`international/`** – pages about our global partnerships
-- Root HTML files (`index.html`, `p1.html`, …) – the main site pages
+# Liwelile Impumelelo Community Centre – Website
 
-## Contact
-Chairperson: Mzolisi Malusi – [mzolisimalusi@gmail.com](mailto:mzolisimalusi@gmail.com)  
-Phone: 076 876 6612  
-Address: 22 Fox Glove Avenue, Primrose, Germiston, 1401
+**NPO Registration:** 167-542 | **PBO Reference:** 930052254  
+**Live URL:** (to be added after GitHub Pages is enabled)  
+**Purpose:** Official website for LICC – a community‑based NPO in Germiston, South Africa, running five core programmes (Elderly Feeding & Wellness, Arts & Culture, Sports & Youth, Skills Development, Afterschool Pupil Support).
 
-© 2026 Liwelile Impumelelo Community Centre
+---
+
+## 📁 File Directory Structure
+licc-website/
+│
+├── index.html # Homepage with programme links and key documents
+├── p1.html # Programme 1: Elderly Feeding & Wellness (SASSA)
+├── p2.html # Programme 2: Arts & Culture
+├── p3.html # Programme 3: Sports & Youth Development
+├── p4.html # Programme 4: Skills Development (China/Japan tracks)
+├── p5.html # Programme 5: Pupil's Afterschool Feeding & Homework
+│
+├── international-partnerships.html # International partnerships landing page
+├── china.html # China partnership (advanced manufacturing)
+├── japan.html # Japan partnership (animation/creative industries)
+├── arts-culture-exchange.html # Arts & culture exchange
+├── sports-exchange.html # Sports exchange
+│
+├── business_profile.html # Business profile / capability statement
+├── mural_sponsorship.html # Mural sponsorship proposal
+├── partnership.html # Sponsorship packages
+├── annual_report.html # Annual report (placeholder)
+│
+├── assets/ # (optional) images, CSS, JS
+│ ├── css/
+│ ├── images/
+│ └── js/
+│
+├── docs/ # All downloadable PDFs and documents
+│ ├── p1/ # Programme 1 documents
+│ │ ├── Staff_Roles.pdf
+│ │ ├── Organogram.pdf
+│ │ ├── Registration_Form.pdf
+│ │ └── ...
+│ ├── p2/ # Programme 2 documents
+│ ├── p3/ # Programme 3 documents
+│ ├── p4/ # Programme 4 documents
+│ │ ├── china/
+│ │ └── japan/
+│ ├── p5/ # Programme 5 documents
+│ ├── international/ # Cross‑programme international documents
+│ │ ├── International_Partnership_Strategy.pdf
+│ │ ├── Exchange_Report_Template.pdf
+│ │ └── ...
+│ └── ...
+│
+├── .gitignore
+└── README.md # This file
